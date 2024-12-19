@@ -1,0 +1,26 @@
+2024-12-19 12:40:22.989 [info] 
+
+
+
+
+2024-12-19 12:40:22.989 [info] Extension host agent started.
+2024-12-19 12:40:23.004 [info] Started initializing default profile extensions in extensions installation folder. file:///home/swarm/.vscode-server/extensions
+2024-12-19 12:40:23.020 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/swarm/.vscode-server/extensions
+2024-12-19 12:40:23.247 [info] [127.0.0.1][4f450939][ManagementConnection] New connection established.
+2024-12-19 12:40:23.437 [info] [127.0.0.1][d4166046][ExtensionHostConnection] New connection established.
+2024-12-19 12:40:23.452 [info] [127.0.0.1][d4166046][ExtensionHostConnection] <524> Launched Extension Host Process.
+2024-12-19 12:40:36.972 [info] [127.0.0.1][4f450939][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-19 12:40:37.008 [info] [127.0.0.1][d4166046][ExtensionHostConnection] <524> Extension Host Process exited with code: 0, signal: null.
+2024-12-19 12:40:38.472 [info] [127.0.0.1][e2794109][ManagementConnection] New connection established.
+2024-12-19 12:40:38.663 [info] [127.0.0.1][5853a418][ExtensionHostConnection] New connection established.
+2024-12-19 12:40:38.667 [info] [127.0.0.1][5853a418][ExtensionHostConnection] <609> Launched Extension Host Process.
+2024-12-19 12:40:44.520 [info] [127.0.0.1][e2794109][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-19 12:40:44.567 [info] [127.0.0.1][5853a418][ExtensionHostConnection] <609> Extension Host Process exited with code: 0, signal: null.
+2024-12-19 12:40:45.976 [info] [127.0.0.1][03696ee5][ManagementConnection] New connection established.
+2024-12-19 12:40:46.175 [info] [127.0.0.1][a8b4b2f1][ExtensionHostConnection] New connection established.
+2024-12-19 12:40:46.180 [info] [127.0.0.1][a8b4b2f1][ExtensionHostConnection] <668> Launched Extension Host Process.
+2024-12-19 12:41:05.511 [info] [127.0.0.1][03696ee5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-19 12:41:05.547 [info] [127.0.0.1][a8b4b2f1][ExtensionHostConnection] <668> Extension Host Process exited with code: 0, signal: null.
+2024-12-19 12:41:07.092 [info] [127.0.0.1][39b7c664][ManagementConnection] New connection established.
+2024-12-19 12:41:07.303 [info] [127.0.0.1][408c7d28][ExtensionHostConnection] New connection established.
+2024-12-19 12:41:07.309 [info] [127.0.0.1][408c7d28][ExtensionHostConnection] <788> Launched Extension Host Process.
